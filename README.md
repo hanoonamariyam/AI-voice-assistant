@@ -1,4 +1,4 @@
-🎙️ AI voice assistant-python project. 
+🎙️ AI VOICE ASSISTANT - PYTHON PROJECT. 
 
 📌 PROJECT OVERVIEW 
 
