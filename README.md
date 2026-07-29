@@ -4,15 +4,40 @@
 
 This project is a simple AI voice assisten, it is developed using python. This project listens to voice commands, recognizes speech, and performs basic tasks like opening websites, telling the current time and date and responds with voice using TTS technology. 
 
-Features:
-- voice recognition
-- opens Youtube
-- opens Google
-- tells current time
-- stops with voice command
+TECHNOLOGIES AND LIBRARIES 
 
-Built with
--Python
+-Python 3
 -pyttsx3
 -SpeechRecognition
 -PyAudio
+-Webbrowser
+-Datetime 
+
+OBJECTIVE
+
+The objective of this project is to build a basic voice controlled AI assistant that demonstrates the fundamentals of Artificial Intelligence, Speech Recognition and Text-to-speech. This assistant understands the comments and responds. 
+
+FEATURES 
+
+-Voice recognition
+-Text-to-speech response
+-Opens Google 
+-Opens Youtube 
+-Announces current time 
+-Announces today's date
+-Error Handling 
+
+SETUP INSTRUCTIONS 
+
+1.Install Python 3
+2.Install required libraries :
+ .... 
+pip install pyttsx3
+pip install SpeechRecognition 
+pip install PyAudio 
+.... 
+
+3.Run the program 
+
+
+
